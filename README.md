@@ -1,2 +1,1 @@
-# machine-learning
-Independent Hacker's Machine Learning Repository
+# Michigan Hackers Machine Learning Repository
